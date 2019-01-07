@@ -1,0 +1,2 @@
+Compile with:
+gcc crypto.c -lssl -lcrypto -o crypto.bin
