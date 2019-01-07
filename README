@@ -1,2 +1,6 @@
 Compile with:
 gcc crypto.c -lssl -lcrypto -o crypto.bin
+
+Make sure you have libssl-dev on your Linux distro.
+
+Run ./crypto.bin for usage help of binary.
